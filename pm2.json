@@ -1,0 +1,8 @@
+{
+  "script": "index.js",
+  "exec_mode": "cluster",
+  "instances": "max",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
